@@ -21,8 +21,7 @@ Escolha um nome para o seu repositório (ex: meu-primeiro-projeto).
 Defina se ele será público ou privado.
 Clique em Create Repository.
 
-3. Inicialize o Git no seu projeto local
-No terminal, vá até o diretório do seu projeto e execute os seguintes comandos:
+3. Inicialize o Git no seu projeto local. No terminal, vá até o diretório do seu projeto e execute os seguintes comandos:
 
 bash
 
@@ -65,5 +64,7 @@ bash
 # 📚 Referências
 
 [Guia do Git e GitHub](https://www.youtube.com/watch?v=xEKo29OWILE)
+
 [Documentação do Git](https://www.youtube.com/watch?v=xEKo29OWILE)
+
 [Plataforma DIO](https://www.dio.me/)
